@@ -1,0 +1,114 @@
+[
+  {
+    "id": "p1",
+    "title": "T-Shirt Classic",
+    "price": 200000,
+    "category": "clothing",
+    "description": "یک تی‌شرت ساده و راحت برای استفاده روزمره.",
+    "images": ["https://picsum.photos/seed/tshirt/400/400"]
+  },
+  {
+    "id": "p2",
+    "title": "Running Shoes",
+    "price": 550000,
+    "category": "shoes",
+    "description": "کفش مخصوص دویدن با طراحی سبک و مقاوم.",
+    "images": ["https://picsum.photos/seed/shoes/400/400"]
+  },
+  {
+    "id": "p3",
+    "title": "Leather Wallet",
+    "price": 150000,
+    "category": "accessories",
+    "description": "کیف پول چرمی با طراحی مینیمال.",
+    "images": ["https://picsum.photos/seed/wallet/400/400"]
+  },
+  {
+    "id": "p4",
+    "title": "Backpack",
+    "price": 320000,
+    "category": "accessories",
+    "description": "کوله‌پشتی جادار و مناسب سفر یا دانشگاه.",
+    "images": ["https://picsum.photos/seed/backpack/400/400"]
+  },
+  {
+    "id": "p5",
+    "title": "Jacket",
+    "price": 800000,
+    "category": "clothing",
+    "description": "کاپشن زمستانی ضدآب با طراحی مدرن.",
+    "images": ["https://picsum.photos/seed/jacket/400/400"]
+  },
+  {
+    "id": "p6",
+    "title": "Sandals",
+    "price": 220000,
+    "category": "shoes",
+    "description": "صندل تابستانی سبک و راحت.",
+    "images": ["https://picsum.photos/seed/sandals/400/400"]
+  },
+  {
+    "id": "p7",
+    "title": "Cap",
+    "price": 120000,
+    "category": "accessories",
+    "description": "کلاه بیسبالی برای استفاده روزمره.",
+    "images": ["https://picsum.photos/seed/cap/400/400"]
+  },
+  {
+    "id": "p8",
+    "title": "T-Shirt Classic",
+    "price": 200000,
+    "category": "clothing",
+    "description": "یک تی‌شرت ساده و راحت برای استفاده روزمره.",
+    "images": ["https://picsum.photos/seed/tshirt/400/400"]
+  },
+  {
+    "id": "p9",
+    "title": "Running Shoes",
+    "price": 550000,
+    "category": "shoes",
+    "description": "کفش مخصوص دویدن با طراحی سبک و مقاوم.",
+    "images": ["https://picsum.photos/seed/shoes/400/400"]
+  },
+  {
+    "id": "p10",
+    "title": "Leather Wallet",
+    "price": 150000,
+    "category": "accessories",
+    "description": "کیف پول چرمی با طراحی مینیمال.",
+    "images": ["https://picsum.photos/seed/wallet/400/400"]
+  },
+  {
+    "id": "p11",
+    "title": "Backpack",
+    "price": 320000,
+    "category": "accessories",
+    "description": "کوله‌پشتی جادار و مناسب سفر یا دانشگاه.",
+    "images": ["https://picsum.photos/seed/backpack/400/400"]
+  },
+  {
+    "id": "p12",
+    "title": "Jacket",
+    "price": 800000,
+    "category": "clothing",
+    "description": "کاپشن زمستانی ضدآب با طراحی مدرن.",
+    "images": ["https://picsum.photos/seed/jacket/400/400"]
+  },
+  {
+    "id": "p13",
+    "title": "Sandals",
+    "price": 220000,
+    "category": "shoes",
+    "description": "صندل تابستانی سبک و راحت.",
+    "images": ["https://picsum.photos/seed/sandals/400/400"]
+  },
+  {
+    "id": "p14",
+    "title": "Cap",
+    "price": 120000,
+    "category": "accessories",
+    "description": "کلاه بیسبالی برای استفاده روزمره.",
+    "images": ["https://picsum.photos/seed/cap/400/400"]
+  }
+]
