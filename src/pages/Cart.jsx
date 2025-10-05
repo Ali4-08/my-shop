@@ -1,11 +1,12 @@
 import useCartStore from "../store/cartStore";
 import toast from "react-hot-toast";
 import { motion } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 
 
 export default function Cart() {
   const { items, updateQty, removeItem, getTotal } = useCartStore();
-
+  const navigate  =  useNavigate();
   
 
   if (items.length === 0) {
@@ -81,10 +82,15 @@ export default function Cart() {
       </div>
 
       {/* جمع کل */}
-      <div className="mt-6 text-right">
+      <div className="mt-6 text-right flex items-center justify-between">
         <p className="text-xl font-bold">
           مجموع: {getTotal().toLocaleString()} تومان
         </p>
+
+        <button className="bg-green-500 text-white hover:bg-green-600 px-4 py-2 rounded"
+        onClick={() => navigate("/checkout")}>
+          پرداخت
+        </button>
       </div>
     </motion.div>
   );
